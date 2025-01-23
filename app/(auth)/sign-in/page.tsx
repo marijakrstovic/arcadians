@@ -21,7 +21,7 @@ const SignInPage = () => {
                         Sign In
                     </CardTitle>
                     <CardDescription className="text-center">
-                        Signn in to your account
+                        Sign in to your account
                     </CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-4">
